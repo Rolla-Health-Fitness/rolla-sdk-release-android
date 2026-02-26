@@ -84,7 +84,7 @@
           "group": "androidx.activity",
           "module": "activity",
           "version": {
-            "requires": "1.12.2"
+            "requires": "1.12.4"
           }
         },
         {
@@ -139,11 +139,11 @@
         {
           "name": "image_picker_android_release-1.0-javadoc.jar",
           "url": "image_picker_android_release-1.0-javadoc.jar",
-          "size": 382977,
-          "sha512": "6b1b46d348f7f6ef3c61ed6e2fdbe2fbfa14c393b55770ea0c5b5b076aa626ff24d4c2238c5424ad81f004bfc49dfa45386d79c5bf15eee968d1f96035f9bd0b",
-          "sha256": "32d4180629af4e94a5df5c12d9a3096dedf0daade1a53b19570171a803c0f00b",
-          "sha1": "9da1be0a4678de7c24a6bb3447fd931ae674aaec",
-          "md5": "608d5dcd10408fafefbd01573dd3ff2e"
+          "size": 383025,
+          "sha512": "8ae630b741cc57b56afa8bf4d01d45a6c8d2e42abec14ee04fb2202be77fd847323b30745f926a1825e9da2591d9357aa998c33ddd404f4bef5a2a8a32dc648b",
+          "sha256": "88eecb7f7260ca016883703d6c142fdcd459fdfecc7582a14c128c4437d3dfa7",
+          "sha1": "bef0ea618c8a7d89d9959eed2d5553326806b82b",
+          "md5": "49834252041299dc919f1723c5323c3d"
         }
       ]
     }
