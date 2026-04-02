@@ -70,7 +70,7 @@
           "group": "com.mapbox.maps",
           "module": "android-ndk27",
           "version": {
-            "requires": "11.20.2"
+            "requires": "11.21.0"
           }
         },
         {
