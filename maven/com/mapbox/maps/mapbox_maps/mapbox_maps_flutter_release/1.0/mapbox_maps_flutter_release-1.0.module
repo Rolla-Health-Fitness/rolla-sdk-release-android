@@ -42,11 +42,11 @@
         {
           "name": "mapbox_maps_flutter_release-1.0.aar",
           "url": "mapbox_maps_flutter_release-1.0.aar",
-          "size": 1112994,
-          "sha512": "f24dceb04030f5be9c0ea18b0cd8f488a3a892842f9067d14dc267aa4cc8da8b6dcb847cbf49a4d7e893320f546d701fc58ba91ef858879091ce80c8d19c7f00",
-          "sha256": "0a4984dc4f69ecce001ddae0ec4f41a4275914fa4f0a5e0b50b27a5106dff7d8",
-          "sha1": "779d179ca2bb18698ba122276fbfa27d9eb345e7",
-          "md5": "3a6fb37054e845eb3a8f28a94ec96899"
+          "size": 1113859,
+          "sha512": "8fb7ccfcae211a7e441054cbab93d961b31602cd0371890cbb048089d038edbc3bc4cb1f730177a00a54561dd6f6ef0d18ace22d7c92d7425347933e10fe64f0",
+          "sha256": "421135aac5af0825b7a7cacec38a673b3fd6e021405427f02200f7fdd8f349b4",
+          "sha1": "e0f090d0fb8d28ba596c7afb94ffa51cfbf30337",
+          "md5": "9f0510a3607a32396ad3781146a7f63f"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "com.mapbox.maps",
           "module": "android-ndk27",
           "version": {
-            "requires": "11.21.0"
+            "requires": "11.22.0"
           }
         },
         {
@@ -106,11 +106,11 @@
         {
           "name": "mapbox_maps_flutter_release-1.0.aar",
           "url": "mapbox_maps_flutter_release-1.0.aar",
-          "size": 1112994,
-          "sha512": "f24dceb04030f5be9c0ea18b0cd8f488a3a892842f9067d14dc267aa4cc8da8b6dcb847cbf49a4d7e893320f546d701fc58ba91ef858879091ce80c8d19c7f00",
-          "sha256": "0a4984dc4f69ecce001ddae0ec4f41a4275914fa4f0a5e0b50b27a5106dff7d8",
-          "sha1": "779d179ca2bb18698ba122276fbfa27d9eb345e7",
-          "md5": "3a6fb37054e845eb3a8f28a94ec96899"
+          "size": 1113859,
+          "sha512": "8fb7ccfcae211a7e441054cbab93d961b31602cd0371890cbb048089d038edbc3bc4cb1f730177a00a54561dd6f6ef0d18ace22d7c92d7425347933e10fe64f0",
+          "sha256": "421135aac5af0825b7a7cacec38a673b3fd6e021405427f02200f7fdd8f349b4",
+          "sha1": "e0f090d0fb8d28ba596c7afb94ffa51cfbf30337",
+          "md5": "9f0510a3607a32396ad3781146a7f63f"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "mapbox_maps_flutter_release-1.0-sources.jar",
           "url": "mapbox_maps_flutter_release-1.0-sources.jar",
-          "size": 163764,
-          "sha512": "422621da2d3d0391054dec0f389c314870bcc1a59bdf33b5218f1cb424bfcdd99a55353fafac3243e0b07bf96924a80e76c35a53af3c0161d05c61b7ec1b08cf",
-          "sha256": "b1d6d43ca7be4eb6d82c235b9d3eadabe4d644c8f4cd96c6233bf76273b1d607",
-          "sha1": "a413ff720141ca687c168798d3397ddaa2c4e709",
-          "md5": "f7185068792e355739b32f2bdaab2730"
+          "size": 163983,
+          "sha512": "c69044e35555763460021eb6c202c25f88f38e1cc4258278a53f797ef090c3c8c590bd62a9dca97ecde80afaa41279e1917455c65fe8c0508e7efb9f5da0f3f6",
+          "sha256": "5fae0f575cf7d51cc56b0c7cc69893f72725d23ff246092ecef3a7b4fc5132e0",
+          "sha1": "d244501cee736d53e42f1a22f41a4703a2e5f1a2",
+          "md5": "5ded8b5d0341eb382ba9b113bef7bc85"
         }
       ]
     },
@@ -146,11 +146,11 @@
         {
           "name": "mapbox_maps_flutter_release-1.0-javadoc.jar",
           "url": "mapbox_maps_flutter_release-1.0-javadoc.jar",
-          "size": 2103119,
-          "sha512": "0f6ad2d5e3f5155c4649382e6e54618d07b7b2d38ae93ab7764ca0fcc67fd1a539b516269f2c59e6d16db167b1bdb2448a57e2db457622c484b72a5bef0ecdca",
-          "sha256": "4bf4b7198cac09ad20b9c407e1e69384c168c1b1100cf6c83ec32938f9c427be",
-          "sha1": "98c56df08d564eec08addc861ea4d811472da135",
-          "md5": "25f6387def99123cc3fdf4828ece01d0"
+          "size": 2101481,
+          "sha512": "5b776b41fb7bdace7c4c70dfa738e5d0d695996f8bf34f8adca27ac56225dee89aa2dbe0a30e312d527845c01651488f8e678560c3b96eab95afa82370999300",
+          "sha256": "7e9535ec9b7bafe8f9b81bc91cfd65bfc20faecddfde6cba85232ef9d4b39447",
+          "sha1": "0fdcdf4c933d72064f092a5327aa46322fd557cc",
+          "md5": "8e04c5737fcd02c6b326c5ce8aa09224"
         }
       ]
     }

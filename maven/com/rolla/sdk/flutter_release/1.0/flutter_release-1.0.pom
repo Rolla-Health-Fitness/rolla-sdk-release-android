@@ -97,6 +97,18 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.github.dart_lang.jni</groupId>
+      <artifactId>jni_release</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.dart_lang.jni_flutter</groupId>
+      <artifactId>jni_flutter_release</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.mapbox.maps.mapbox_maps</groupId>
       <artifactId>mapbox_maps_flutter_release</artifactId>
       <version>1.0</version>
@@ -105,12 +117,6 @@
     <dependency>
       <groupId>dev.fluttercommunity.plus.packageinfo</groupId>
       <artifactId>package_info_plus_release</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.flutter.plugins.pathprovider</groupId>
-      <artifactId>path_provider_android_release</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>

@@ -122,6 +122,20 @@
           }
         },
         {
+          "group": "com.github.dart_lang.jni",
+          "module": "jni_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.github.dart_lang.jni_flutter",
+          "module": "jni_flutter_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "com.mapbox.maps.mapbox_maps",
           "module": "mapbox_maps_flutter_release",
           "version": {
@@ -131,13 +145,6 @@
         {
           "group": "dev.fluttercommunity.plus.packageinfo",
           "module": "package_info_plus_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.pathprovider",
-          "module": "path_provider_android_release",
           "version": {
             "requires": "1.0"
           }
@@ -196,11 +203,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 28779288,
-          "sha512": "f8b5baf7130f044a232dde368e77476565885333eed6c1f57c25a35adca7829c15187dd82653261ab942064a8719e30b5aee9a32e64f40f5a9b6ba0fdee213d2",
-          "sha256": "6267e8f04ffd4aab8b1895a44d121d1825a2616e92134e6c6c6b5f2614869de5",
-          "sha1": "bec52c446a3513c952b92cef126370dec2b4ad11",
-          "md5": "361c1afad94793b978f8fcf3ebb2d50a"
+          "size": 28906924,
+          "sha512": "3dbb2739c839c4e5542b47b1041ec519df15abbec543bf62371ae6208b9d4c135f3465f982030aff27d59addd2805838342ce2bf8dd3d8c8d6304b9719bbb634",
+          "sha256": "dde3dd59161106a93f3c64978fbe80fa297c7dda94ec6e6848a7504db2973acd",
+          "sha1": "7f1e14569de468297222760168874a5576f6bb33",
+          "md5": "905052e672a871905dbe64fb054e706c"
         }
       ]
     },
@@ -312,6 +319,20 @@
           }
         },
         {
+          "group": "com.github.dart_lang.jni",
+          "module": "jni_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.github.dart_lang.jni_flutter",
+          "module": "jni_flutter_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "com.mapbox.maps.mapbox_maps",
           "module": "mapbox_maps_flutter_release",
           "version": {
@@ -321,13 +342,6 @@
         {
           "group": "dev.fluttercommunity.plus.packageinfo",
           "module": "package_info_plus_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.pathprovider",
-          "module": "path_provider_android_release",
           "version": {
             "requires": "1.0"
           }
@@ -386,11 +400,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 28779288,
-          "sha512": "f8b5baf7130f044a232dde368e77476565885333eed6c1f57c25a35adca7829c15187dd82653261ab942064a8719e30b5aee9a32e64f40f5a9b6ba0fdee213d2",
-          "sha256": "6267e8f04ffd4aab8b1895a44d121d1825a2616e92134e6c6c6b5f2614869de5",
-          "sha1": "bec52c446a3513c952b92cef126370dec2b4ad11",
-          "md5": "361c1afad94793b978f8fcf3ebb2d50a"
+          "size": 28906924,
+          "sha512": "3dbb2739c839c4e5542b47b1041ec519df15abbec543bf62371ae6208b9d4c135f3465f982030aff27d59addd2805838342ce2bf8dd3d8c8d6304b9719bbb634",
+          "sha256": "dde3dd59161106a93f3c64978fbe80fa297c7dda94ec6e6848a7504db2973acd",
+          "sha1": "7f1e14569de468297222760168874a5576f6bb33",
+          "md5": "905052e672a871905dbe64fb054e706c"
         }
       ]
     },
@@ -406,11 +420,11 @@
         {
           "name": "flutter_release-1.0-sources.jar",
           "url": "flutter_release-1.0-sources.jar",
-          "size": 1683,
-          "sha512": "5b24ed7a4dfd983d6ac3a2ca5f6a077b30086818a07af5e5c48cddeccf86b15e4d1b7e0852daaf29f52ec0a9f369da43c6ca3ebd5ecfbc8de4afd5c2dac3f920",
-          "sha256": "dabbec31bb7c0b8fd9871536e44275ce94150540fc8689a5cd0dcaa93c654f3a",
-          "sha1": "bc1761c27be583a191b52a0e9812b9e88d1e8254",
-          "md5": "6bedef3f82436d657a83f32d804e4286"
+          "size": 1706,
+          "sha512": "bc6b3520f9af27411f99a4aaf2670fe68f2c7bd0414f0718b16ce1b76ebfa94014710d60cd66430ebccf4af5ad4b5bc918f7128e005a5d5aeb8e4574442ac708",
+          "sha256": "36bbc0a5964760cb7535edfef6451691c0069ee183d7f112361168ef611961e3",
+          "sha1": "335ed334ba9333f3c95dbf64d37b47f5ac43ce52",
+          "md5": "a7666e8a9f79f9edaa3de444c7cd5fb3"
         }
       ]
     },
