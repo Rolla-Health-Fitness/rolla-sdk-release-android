@@ -67,4 +67,4 @@ Click "Sync Now" in the Gradle notification bar, or run:
 
 ---
 
-For detailed integration instructions see the [Android Integration Guide](https://github.com/Rolla-Health-Fitness/rolla-sdk-documentation/tree/main/android).
+For detailed integration instructions see the [Android Integration Guide](https://github.com/Rolla-Health-Fitness/rolla-sdk-documentation/tree/dev/android).
