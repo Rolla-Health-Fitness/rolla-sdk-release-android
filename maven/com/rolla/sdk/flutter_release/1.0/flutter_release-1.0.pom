@@ -85,6 +85,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>cachet.plugins.health</groupId>
+      <artifactId>health_release</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>vn.hunghd.flutter.plugins.imagecropper</groupId>
       <artifactId>image_cropper_release</artifactId>
       <version>1.0</version>

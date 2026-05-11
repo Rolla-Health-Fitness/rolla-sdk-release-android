@@ -35,11 +35,11 @@
         {
           "name": "geolocator_android_release-1.0.aar",
           "url": "geolocator_android_release-1.0.aar",
-          "size": 57635,
-          "sha512": "da5f0f019e09d662c6d8a8dd3bf754978b229cc0c5f00a48694a27c97dcb0d8f3c37ae1b3962fbf7006372e0b37c375c24dd8b87d92f9f5ceaf5bf1c9aca04f4",
-          "sha256": "fa17010316a8509f4c6e50faaac24cd361994e88bbb8119830a013e86756b507",
-          "sha1": "72a97717a6d5c5c5dcdc8ab0f60f5d2984ffdd50",
-          "md5": "81abaf8cd3a50f3567007a9627730ac6"
+          "size": 58748,
+          "sha512": "7ddbcec3fe27cfd75137ae4c2461913ae2559cc821d3a1c6ff69ae66b25e8af03b680751fbdf82965ce957c4514250aaf3ed35fece7dae27ba7a2038f63604d2",
+          "sha256": "3cef117b22363184446ffd6225cee895129cff3109a9a46b42c14ef7225095c9",
+          "sha1": "c1248d53596050746a4653d03a597bdf007e6328",
+          "md5": "0df6da1473dca9a8c1e03e0ef5c91cf2"
         }
       ]
     },
@@ -78,11 +78,11 @@
         {
           "name": "geolocator_android_release-1.0.aar",
           "url": "geolocator_android_release-1.0.aar",
-          "size": 57635,
-          "sha512": "da5f0f019e09d662c6d8a8dd3bf754978b229cc0c5f00a48694a27c97dcb0d8f3c37ae1b3962fbf7006372e0b37c375c24dd8b87d92f9f5ceaf5bf1c9aca04f4",
-          "sha256": "fa17010316a8509f4c6e50faaac24cd361994e88bbb8119830a013e86756b507",
-          "sha1": "72a97717a6d5c5c5dcdc8ab0f60f5d2984ffdd50",
-          "md5": "81abaf8cd3a50f3567007a9627730ac6"
+          "size": 58748,
+          "sha512": "7ddbcec3fe27cfd75137ae4c2461913ae2559cc821d3a1c6ff69ae66b25e8af03b680751fbdf82965ce957c4514250aaf3ed35fece7dae27ba7a2038f63604d2",
+          "sha256": "3cef117b22363184446ffd6225cee895129cff3109a9a46b42c14ef7225095c9",
+          "sha1": "c1248d53596050746a4653d03a597bdf007e6328",
+          "md5": "0df6da1473dca9a8c1e03e0ef5c91cf2"
         }
       ]
     },

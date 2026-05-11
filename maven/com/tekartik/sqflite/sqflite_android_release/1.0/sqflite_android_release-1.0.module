@@ -35,11 +35,11 @@
         {
           "name": "sqflite_android_release-1.0.aar",
           "url": "sqflite_android_release-1.0.aar",
-          "size": 43114,
-          "sha512": "d503f9bfda65979de31a2fae5f8f09ba4c0dffc2e4b103bafed743ad856f6fe846942769cfdfd1a6b7b002a547ad66254c23079af4e8761a3644c8c1db9ae130",
-          "sha256": "9853dd219a077ace534dd5baca1a95ba8c4472db8a138054784c5625cd97dfe0",
-          "sha1": "dc898fa37aef3652ebae2d18055ae54079786cdc",
-          "md5": "abc510276235f235e95d5194735e8ac0"
+          "size": 42986,
+          "sha512": "a3b861d06f741b2e7802dd916929e16d1b3314f0624f860f66fd1dcfa506b7185919ae73dad0ca9dbfe8ab68554e19c581f7eedc18048ae8c3f06d12528037a2",
+          "sha256": "d38c43fdecfd7aa76cf897a683af11041ae8b85f43374caa9fc022f7f634d5e0",
+          "sha1": "fe0774cad4b4984c40b1918db7917e828675854d",
+          "md5": "053b7ff958728c6431090189fc704d0a"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "sqflite_android_release-1.0.aar",
           "url": "sqflite_android_release-1.0.aar",
-          "size": 43114,
-          "sha512": "d503f9bfda65979de31a2fae5f8f09ba4c0dffc2e4b103bafed743ad856f6fe846942769cfdfd1a6b7b002a547ad66254c23079af4e8761a3644c8c1db9ae130",
-          "sha256": "9853dd219a077ace534dd5baca1a95ba8c4472db8a138054784c5625cd97dfe0",
-          "sha1": "dc898fa37aef3652ebae2d18055ae54079786cdc",
-          "md5": "abc510276235f235e95d5194735e8ac0"
+          "size": 42986,
+          "sha512": "a3b861d06f741b2e7802dd916929e16d1b3314f0624f860f66fd1dcfa506b7185919ae73dad0ca9dbfe8ab68554e19c581f7eedc18048ae8c3f06d12528037a2",
+          "sha256": "d38c43fdecfd7aa76cf897a683af11041ae8b85f43374caa9fc022f7f634d5e0",
+          "sha1": "fe0774cad4b4984c40b1918db7917e828675854d",
+          "md5": "053b7ff958728c6431090189fc704d0a"
         }
       ]
     },
