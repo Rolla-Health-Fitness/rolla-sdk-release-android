@@ -104,11 +104,11 @@
         {
           "name": "sqflite_android_release-1.0-javadoc.jar",
           "url": "sqflite_android_release-1.0-javadoc.jar",
-          "size": 339922,
-          "sha512": "2c86a06951249ac74b2c2ef06a13704bd550553b11fade380a53a76a379c5cecc14c079fe7666dca9ccb5d1dfcb7dffc22e256932f0a3de057a8a27a5b064d90",
-          "sha256": "8cb585775047a516389ba2e7f22a33a1cd747b7ec9c1891a69d090d42c85b3a0",
-          "sha1": "343db87a16b70f9c7763a8c748b53d284e4fe8b0",
-          "md5": "9c71c2606f9ffee3e7d352cfd93b1a1e"
+          "size": 339867,
+          "sha512": "21c73a5a87fee7e70ef965f3244cd8561e7118ae967b401875fb5fa0b1c937d8c32edfbbc0ae35a08e1f0c904b1d4c56341e95469a639f97a7ad45018e892306",
+          "sha256": "1948f7f5d11cd40cc4848d2d170412f390e004dc366d3774989fe2b82624585b",
+          "sha1": "ea874dd6bb28478fc7b3ad9a6238dd850c8f0f2e",
+          "md5": "506ea7870dd1f19afa0c2fe26602e117"
         }
       ]
     }

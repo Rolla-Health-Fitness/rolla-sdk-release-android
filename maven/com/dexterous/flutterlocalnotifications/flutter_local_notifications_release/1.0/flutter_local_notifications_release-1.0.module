@@ -125,11 +125,11 @@
         {
           "name": "flutter_local_notifications_release-1.0-javadoc.jar",
           "url": "flutter_local_notifications_release-1.0-javadoc.jar",
-          "size": 417230,
-          "sha512": "30d01d4b0515505386b7bd2cddc54a9b78e0b764a244cd8316084c32267f1de80056ad6929442ccfb89cf2c088576de649f173c989886fc65901ee9d2c5eacaf",
-          "sha256": "73833699106355fba4b997c3affe16b63e5fcc1b5346a4f623c9b79776fb7532",
-          "sha1": "a1aea778c97a0575ad58819d6242cdd8273e510b",
-          "md5": "bde0930cbb4488de8815759d69dc881a"
+          "size": 417405,
+          "sha512": "04039f88c90b4b2a1aec6343916dbca326ae52b9e9fbcab9f64b25b2b02fec6280c885804b47f64aadba465fe66855a53b5ce6b6dcd4456fec2249e6776e30b4",
+          "sha256": "09a5b04a55af19f4a4f04bf5b304f111bfe58ad1adaf7de85a3f89fe30cffa11",
+          "sha1": "a74ed469c85bda8af0ef93765192d159bca91abc",
+          "md5": "68cc8721af14080dc432bd9bb8d26e68"
         }
       ]
     }
