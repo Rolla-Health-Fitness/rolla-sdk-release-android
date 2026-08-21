@@ -104,11 +104,11 @@
         {
           "name": "connectivity_plus_release-1.0-javadoc.jar",
           "url": "connectivity_plus_release-1.0-javadoc.jar",
-          "size": 278349,
-          "sha512": "31c0f423ce12394f66312619bf8b4b91eeb234a54ec0f8987b73db75a175a68f7d5f897f17a5fbbfb6a028b87724ef17ce4fe9de2847317b569302f64da49300",
-          "sha256": "5a998ecaee95a6aafe4ea93ab62af4e2b0510258a69da9b3680910855a13e8ed",
-          "sha1": "ea8ca489b9d4c3e8a2da6c596bf8f071e9c0938a",
-          "md5": "999edbcbf7ecc310724a141e49a753ca"
+          "size": 278352,
+          "sha512": "444bbdb4862fd476669923727684997063bf90350127a7cab2823502e9823d08ba6b1c0c9f3dc6335a23c708b03c7a71b8946e07dd45fab4c7809c4926c7f0af",
+          "sha256": "a8b6e7b85d7803cb169de03b3207294264e8958bf82530c16e21b840d80e7c32",
+          "sha1": "96df7a6a886be10df4c0ba16878116df2befe169",
+          "md5": "ead9d773075b630b1c5db2259794a9f7"
         }
       ]
     }

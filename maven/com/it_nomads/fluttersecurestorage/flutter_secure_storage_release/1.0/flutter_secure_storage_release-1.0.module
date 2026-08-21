@@ -118,11 +118,11 @@
         {
           "name": "flutter_secure_storage_release-1.0-javadoc.jar",
           "url": "flutter_secure_storage_release-1.0-javadoc.jar",
-          "size": 307686,
-          "sha512": "e497c8ba7ea0958acd12fabb5ae9d7f37f86740e41f12cfc735f08cb3fa9ab4527dcd11caef26c64a06e80be53eac9fc0c153c38bdab72e00708dec4268e1e1f",
-          "sha256": "059415ff40e27c26fabc75f13081fb62430c6fe4ac80f2bdc04b11fb400f49a6",
-          "sha1": "b433d8ce98459ae97d272a18cfa1c51b7728ac56",
-          "md5": "1e7125e7647e51af916d8d407212c813"
+          "size": 307713,
+          "sha512": "2235ad99bcaa1cfefe625e49d891c2bdcdd23993799bae55ca55cc9acbea77931255fd9c146be63b5a8ff7d6a165ec466fac0ada9d558d0992af605e59f99964",
+          "sha256": "63e4a8257192208b9b015bad3dad71f81d158a99cc4b12d95fc154e6f19c5668",
+          "sha1": "5d8c8507e57f20028394fc73985ba27179f1382b",
+          "md5": "96de8a7640c13f138f6c72580c4cc7c7"
         }
       ]
     }
