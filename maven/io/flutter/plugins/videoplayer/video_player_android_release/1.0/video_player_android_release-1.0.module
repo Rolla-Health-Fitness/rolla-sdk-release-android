@@ -153,11 +153,11 @@
         {
           "name": "video_player_android_release-1.0-javadoc.jar",
           "url": "video_player_android_release-1.0-javadoc.jar",
-          "size": 468690,
-          "sha512": "e67b8aa126a769ba79f385dffc2e085b04e62a953acce9cf2f5c212b75cf6ff918ba744f1017735d23424a792e83136c4cec9da299999f6ab10e721d10c05b3c",
-          "sha256": "579faaf91606f28ea254836a117ac556fe498284401afd911ff8ce4de47659d3",
-          "sha1": "ec0492eb5a0b8589ba5dead96f30063688c11f14",
-          "md5": "dd9de2c15520871f8d98510c05187ec3"
+          "size": 468751,
+          "sha512": "54f4faa153a398c73c99e19967235f372901fc94dc42c03264702dba930b83a5c529bccd5d662a592ca00968ee6f1a80d0fb75a1a2fa9f8a83780cb58e132278",
+          "sha256": "0f10305a8779534d976b0b8eb821cdc252671a85afddaad4d3e9d8654261804f",
+          "sha1": "82272120078fa5677eab4fb16a2f2a0995046563",
+          "md5": "be2209ae17d23c69db712fa93c4f89f0"
         }
       ]
     }

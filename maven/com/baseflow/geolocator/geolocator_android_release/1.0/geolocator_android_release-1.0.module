@@ -118,11 +118,11 @@
         {
           "name": "geolocator_android_release-1.0-javadoc.jar",
           "url": "geolocator_android_release-1.0-javadoc.jar",
-          "size": 389551,
-          "sha512": "a6e4e51e9c2c9b65a0c22a81a0c1f26b2545ff68f106d0956dc61ac5a27c1b6728e009f6af686c809b0c7185388dec0468f99b242f779fe9c1939e95b647e6c1",
-          "sha256": "9895b0480d2f01c5f4881a1f27c67300d1a231b9287ce207995c706950fc19a8",
-          "sha1": "a9104d611de865da03f5018c7608c2f98cc209cf",
-          "md5": "74b7f9645aa0525c197b29f3a9da35cd"
+          "size": 389563,
+          "sha512": "5fbec4c1869d3cf01f16d7e88e397c0a98e23817c6f173486dcb16f489c43ccab2085b46426ca041d6cc4a9908eb13552291db46bca922803659dd3ad6bbdfda",
+          "sha256": "a359df5b3e43d34025d34a968c5e9fae36fd43c63db157f8006f652e776a9766",
+          "sha1": "099857d392380162a53c3e282c0501a8eaac575e",
+          "md5": "d45849ad2fb6a35e17f010a7d43900c8"
         }
       ]
     }
