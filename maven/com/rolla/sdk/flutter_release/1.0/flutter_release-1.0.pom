@@ -37,6 +37,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>io.flutter.plugins.camerax</groupId>
+      <artifactId>camera_android_camerax_release</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>dev.fluttercommunity.plus.connectivity</groupId>
       <artifactId>connectivity_plus_release</artifactId>
       <version>1.0</version>
@@ -75,6 +81,12 @@
     <dependency>
       <groupId>com.it_nomads.fluttersecurestorage</groupId>
       <artifactId>flutter_secure_storage_release</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.linusu.flutter_web_auth_2</groupId>
+      <artifactId>flutter_web_auth_2_release</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>

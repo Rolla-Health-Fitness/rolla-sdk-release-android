@@ -52,6 +52,13 @@
           }
         },
         {
+          "group": "io.flutter.plugins.camerax",
+          "module": "camera_android_camerax_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "dev.fluttercommunity.plus.connectivity",
           "module": "connectivity_plus_release",
           "version": {
@@ -96,6 +103,13 @@
         {
           "group": "com.it_nomads.fluttersecurestorage",
           "module": "flutter_secure_storage_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.linusu.flutter_web_auth_2",
+          "module": "flutter_web_auth_2_release",
           "version": {
             "requires": "1.0"
           }
@@ -210,11 +224,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 21510620,
-          "sha512": "b1ce4399698e41d08a989b566675389f60e4e0126627c13a05cfc015cb2e8a7f6dc1186107d74953edce292ec2fcddc8a6e3a9b0728ab0b1228ab65e4bea36a2",
-          "sha256": "4eace6fed0c167bd7d1ce495e212ef77f6da9716b5cd4b0dcce88ec30e7c88c8",
-          "sha1": "ae7cd31f4a464dd985a14f4c26d70e4ec4e537b0",
-          "md5": "d3392bb1dcb01fa708cf2c3b99471762"
+          "size": 25548467,
+          "sha512": "8c083ffb0f227d5a4c700891ce58a10437cb81def7c661445ba2c00066eb8c38521b17386eee766466faf3ab1a997a0e4a93b407a704d68e5ea1420a5a79b046",
+          "sha256": "0c6e9a068adfb3dbbbd04427ae13a286440cf2cee7c3a34623b9e8590a5896e0",
+          "sha1": "74e0fc5c5ff2203a3e9bbad3920b1215b749a6f0",
+          "md5": "d80b50f3f46cef88f4acad55e9aa44b7"
         }
       ]
     },
@@ -256,6 +270,13 @@
           }
         },
         {
+          "group": "io.flutter.plugins.camerax",
+          "module": "camera_android_camerax_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "dev.fluttercommunity.plus.connectivity",
           "module": "connectivity_plus_release",
           "version": {
@@ -300,6 +321,13 @@
         {
           "group": "com.it_nomads.fluttersecurestorage",
           "module": "flutter_secure_storage_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.linusu.flutter_web_auth_2",
+          "module": "flutter_web_auth_2_release",
           "version": {
             "requires": "1.0"
           }
@@ -414,11 +442,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 21510620,
-          "sha512": "b1ce4399698e41d08a989b566675389f60e4e0126627c13a05cfc015cb2e8a7f6dc1186107d74953edce292ec2fcddc8a6e3a9b0728ab0b1228ab65e4bea36a2",
-          "sha256": "4eace6fed0c167bd7d1ce495e212ef77f6da9716b5cd4b0dcce88ec30e7c88c8",
-          "sha1": "ae7cd31f4a464dd985a14f4c26d70e4ec4e537b0",
-          "md5": "d3392bb1dcb01fa708cf2c3b99471762"
+          "size": 25548467,
+          "sha512": "8c083ffb0f227d5a4c700891ce58a10437cb81def7c661445ba2c00066eb8c38521b17386eee766466faf3ab1a997a0e4a93b407a704d68e5ea1420a5a79b046",
+          "sha256": "0c6e9a068adfb3dbbbd04427ae13a286440cf2cee7c3a34623b9e8590a5896e0",
+          "sha1": "74e0fc5c5ff2203a3e9bbad3920b1215b749a6f0",
+          "md5": "d80b50f3f46cef88f4acad55e9aa44b7"
         }
       ]
     },
@@ -434,11 +462,11 @@
         {
           "name": "flutter_release-1.0-sources.jar",
           "url": "flutter_release-1.0-sources.jar",
-          "size": 1731,
-          "sha512": "65edc9054dfefd60be6bf5d198ef321ddb714193509f678b2167a8236afdc50e78018a541ff2419f9a702408274a22f708284154b9b27a9784f2bb0eca69419c",
-          "sha256": "7f36aa4025778e534b15dbf720e73e6cb84a8a9f5efdb50fe4840b7fe270dc23",
-          "sha1": "a3403e979c28b6aaaa106f2bec273d5eafec14c5",
-          "md5": "c62d0e79b4517db47e0acba580a1f110"
+          "size": 1793,
+          "sha512": "c14a7fef1282e50aafd912ca95428f850b894b56e908ff342ec6a85d6bcb2ef7898d754292087c4024248bafd3fef827c13dc554927653d371d57e6628fab7ef",
+          "sha256": "df8b39741a92a11c56005293e18b9d3de93b0f913f3addac09955f2c10afe622",
+          "sha1": "75fb8725a4efb30e1b76936d6f7ad842768dc103",
+          "md5": "bc2bb2efc7fe568d71ceb39c3ad115b8"
         }
       ]
     },
